@@ -1,1 +1,18 @@
 Heya i am Ajitesh i have created my first GIT project am excited.
+
+this is amazing i have just added this text document to the githud repository.
+
+commiting this document with new lines is modifying and staging the current document/
+
+Git gives us a lot of crazy options
+
+cd
+git config --global user.name
+git config --global user.email
+git add file name
+git commit -m "comment" file name
+git status "to check the status"
+git push -u origin master "to save the document in the GITHUB repository"
+
+git commit -m 'new comment' will save the modified document 
+git push -u origin master 
